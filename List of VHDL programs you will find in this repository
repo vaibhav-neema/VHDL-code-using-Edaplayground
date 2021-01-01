@@ -1,0 +1,50 @@
+Design of AND Gate 
+Design of OR Gate 
+Design of NAND Gate 
+Design of NOR Gate 
+Design of XOR Gate 
+Behavioral 	Design of 4:1 Mux 
+Data Flow 	Design of 4:1 Mux
+Structural 	Design of 4:1 Mux
+Behavioral 	Design of 3:8 Encoder 
+Data Flow 	Design of 3:8 Encoder
+Structural 	Design of 3:8 Encoder
+Behavioral 	Design of 8:3 Decoder 
+Data Flow 	Design of 8:3 Decoder
+Structural 	Design of 8:3 Decoder
+Behavioral 	Design of 1 Bit Full Adder
+Data Flow 	Design of 1 Bit Full Adder
+Structural 	Design of 1 Bit Full Adder
+Behavioral 	Design of positive edge DFF
+Data Flow 	Design of positive edge DFF
+Structural 	Design of positive edge DFF
+Behavioral 	Design of Negative Edge DFF
+Data Flow 	Design of Negative Edge DFF
+Structural 	Design of Negative Edge DFF
+Behavioral 	Design of Asynchronous 4 bit Counter 
+Data Flow 	Design of Asynchronous 4 bit Counter
+Structural 	Design of Asynchronous 4 bit Counter
+Behavioral 	Design of Synchronous 4 bit Counter 
+Data Flow 	Design of Synchronous 4 bit Counter
+Structural 	Design of Synchronous 4 bit Counter
+Behavioral 	Design of Binary to gray code converter 
+Data Flow 	Design of Binary to gray code converter
+Structural 	Design of Binary to gray code converter
+Behavioral 	Design of 8:1 Mux 
+Data Flow 	Design of 8:1 Mux
+Structural 	Design of 8:1 Mux
+Behavioral 	Desing of 1:8 DeMux 
+Data Flow 	Desing of 1:8 DeMux
+Structural 	Desing of 1:8 DeMux
+Behavioral 	Design of 4bit Right Shift Register 
+Data Flow 	Design of 4bit Right Shift Register 
+Structural 	Design of 4bit Right Shift Register 
+Behavioral 	Design of 4bit left Shift Register 
+Data Flow 	Design of 4bit left Shift Register
+Structural 	Design of 4bit left Shift Register
+Behavioral 	Design of 2 bit Subtractor 
+Data Flow 	Design of 2 bit Subtractor 
+Structural 	Design of 2 bit Subtractor 
+Behavioral 	Design of 2 bit Adder 
+Data Flow 	Design of 2 bit Adder 
+Structural 	Design of 2 bit Adder 
